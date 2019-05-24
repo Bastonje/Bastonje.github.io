@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "./ColmarAcademy/index.html", "use": "@now/static" },
+    { "src": ".\/ColmarAcademy\/index.html", "use": "@now/static" },
   ]
 }
