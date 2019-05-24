@@ -3,6 +3,6 @@
   "version": 2,
   "routes": [
     { "src": "/", "dest": "/ColmarAcademy/index.html" },
-    { "src": "/resources/css/styles.css", "dest": "/ColmarAcademy/resources/css/style.css" }
+    { "src": "/", "dest": "/ColmarAcademy/resources/css/style.css" }
   ]
 }
