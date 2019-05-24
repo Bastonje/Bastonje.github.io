@@ -1,6 +1,5 @@
 {
   "builds": [
-    { "src": "ColmarAcademy/*.html", "use": "@now/static" },
-    { "src": "date.js", "use": "@now/node" }
+    { "src": "./ColmarAcademy/index.html", "use": "@now/static" },
   ]
 }
