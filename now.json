@@ -3,7 +3,7 @@
   "version": 2,
    "builds": [
     {
-      "src": "**/*",
+      "src": "/ColmarAcademy/index.html",
       "use": "@now/static"
     }
   ],
