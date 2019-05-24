@@ -2,11 +2,7 @@
   "name": "colmar_academy",
   "version": 2,
   "routes": [
-    { "src": "/", "dest": "/ColmarAcademy/index.html" }
+    { "src": "/", "dest": "/ColmarAcademy/index.html" },
     { "src": "/", "dest": "/ColmarAcademy/index.css" }
-  ],
-  "builds": [
-    { "src": "*.html", "use": "@now/static" },
-    { "src": "ColmarAcademy/resources/css/style.css", "use": "@now/css" }
   ]
 }
