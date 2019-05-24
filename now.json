@@ -1,7 +1,7 @@
 {
   "name": "colmar_academy",
-  "version": 2
+  "version": 2,
   "builds": [
-      { "src": "ColmarAcademy/index.html", "use": "@now/static" },
+      { "src": "ColmarAcademy/index.html", "use": "@now/static" }
   ] 
 }
