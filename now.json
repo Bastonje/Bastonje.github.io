@@ -1,0 +1,5 @@
+{
+  "name": "colmar_academy",
+  "version": 2,
+  "routes": [{ "src": "ColmarAcademy/index", "dest": "ColmarAcademy/about.html" }]
+}
